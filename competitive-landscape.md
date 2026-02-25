@@ -62,32 +62,23 @@ Marketplace mở lớn nhất cho AI agent skills với 42,000+ skills tương t
 4. **No autonomous economy:** Agents không thể tự mua/bán skills
 5. **Pure skill focus:** Không có agent identity, reputation, hoặc treasury management
 
-**🆚 So sánh với ClawFriend:**
+**👤 User chọn SkillzWave khi:** Cần 42K+ skills ngay, muốn multi-platform (Claude, Cursor, Copilot), enterprise có budget $299-399/mo.
+**👤 User KHÔNG chọn khi:** Muốn kiếm passive income từ skills qua agent shares, cần bonding curve, muốn social discovery.
 
-| Tiêu chí               | SkillzWave                  | ClawFriend                   | Winner         |
-| ---------------------- | --------------------------- | ---------------------------- | -------------- |
-| **Skills Inventory**   | ✅ 42,000+ skills           | 🔄 Early stage (<100)        | **SkillzWave** |
-| **Agent Trading**      | ❌ Không có                 | ✅ Bonding curve             | **ClawFriend** |
-| **Social Discovery**   | ❌ Catalog search           | ✅ Twitter integration       | **ClawFriend** |
-| **Creator Economics**  | ❌ $299-399/mo subscription | ✅ 5% perpetual fees         | **ClawFriend** |
-| **Barrier to Entry**   | ❌ $299-399/mo              | ✅ $0.04 first share         | **ClawFriend** |
-| **Platform Support**   | ✅ 22+ platforms            | ⚠️ ClawFriend ecosystem only | **SkillzWave** |
-| **Autonomous Economy** | ❌ Không có                 | ✅ Agents có wallet/treasury | **ClawFriend** |
+**📖 Bài học cho ClawFriend:** SkillzWave chứng minh demand cho skills marketplace là có thật. ClawFriend nên tập trung **quality over quantity** + thêm **economic layer** (holder-gated, 5% fees) mà SkillzWave thiếu.
 
-**💡 ClawFriend Advantage:**
+**🆚 So sánh trực tiếp:**
 
-- SkillzWave có **skills breadth** nhưng thiếu **economic layer**
-- ClawFriend kết hợp skills + agent ownership + trading → **integrated flywheel**
-- Creator ở ClawFriend kiếm passive income từ trading fees (5% perpetual) vs SkillzWave cần subscription sales
-- **Strategy:** ClawFriend focus on quality skills (100 great > 10,000 mediocre) + import từ SkillzWave ecosystem
+| Tiêu chí | SkillzWave | ClawFriend | Winner |
+|----------|-----------|-----------|---------|
+| **Skills Inventory** | ✅ 42,000+ | 🔄 Early stage | **SkillzWave** |
+| **Agent Trading** | ❌ No | ✅ Bonding curve | **ClawFriend** |
+| **Social Discovery** | ❌ Catalog | ✅ Twitter | **ClawFriend** |
+| **Creator Economics** | ❌ $299-399/mo | ✅ 5% perpetual | **ClawFriend** |
+| **Barrier to Entry** | ❌ $299/mo | ✅ $0.04 | **ClawFriend** |
 
-**❌ ClawFriend Disadvantage:**
-
-- **Skills gap massive:** 42,000+ skills vs <100 → ClawFriend agents thiếu capabilities
-- **No multi-platform:** SkillzWave works với 22+ platforms, ClawFriend ecosystem only
-- **Enterprise credibility:** SkillzWave đã prove ROI ($50K savings), ClawFriend chưa có case studies
-- **Developer ecosystem:** SkillzWave có GitHub community + open-source, ClawFriend cần build từ đầu
-- **Time to parity:** Cần 1-2 năm để catch up về skills inventory
+**💡 ClawFriend Advantage:** Integrated flywheel (skills + shares + social), 5% perpetual fees, $0.04 entry.
+**❌ ClawFriend Disadvantage:** Skills gap 42K vs <100, no multi-platform, cần 1-2 năm catch up inventory.
 
 ---
 
@@ -130,32 +121,22 @@ Web3-native AI agent marketplace chuyên về blockchain data, wallet analysis, 
 4. **No social discovery:** Thiếu viral loops từ Twitter/social media
 5. **Complex for mainstream:** Requires crypto knowledge to use effectively
 
-**🆚 So sánh với ClawFriend:**
+**👤 User chọn Heurist Mesh khi:** Agent cần Web3 data/tool chuẩn (Etherscan, DexScreener, CoinGecko), muốn trả theo lượt dùng (x402).
+**👤 User KHÔNG chọn khi:** Cần giao dịch share agent, muốn social stream, muốn BSC.
 
-| Tiêu chí                | Heurist Mesh            | ClawFriend                     | Winner           |
-| ----------------------- | ----------------------- | ------------------------------ | ---------------- |
-| **Web3 Specialization** | ✅ 42 agents, 100 tools | ⚠️ General purpose             | **Heurist Mesh** |
-| **Performance**         | ✅ 70% efficiency gain  | 🔄 To be proven                | **Heurist Mesh** |
-| **Agent Trading**       | ❌ Không có             | ✅ Bonding curve               | **ClawFriend**   |
-| **Social Discovery**    | ❌ Không có             | ✅ Twitter verification        | **ClawFriend**   |
-| **Payment Rails**       | ✅ x402 (Solana, Base)  | ✅ BSC native                  | **Draw**         |
-| **Market Focus**        | ❌ Web3 only            | ✅ General + Web3              | **ClawFriend**   |
-| **Economic Layer**      | ❌ API fees only        | ✅ Trading + Skills + Treasury | **ClawFriend**   |
+**📖 Bài học cho ClawFriend:** Heurist chứng minh Web3 tools là nhu cầu thật. ClawFriend nên **integrate Heurist tools** vào skill marketplace thay vì tự build lại, tập trung vào **economic layer** mà Heurist thiếu.
 
-**💡 ClawFriend Advantage:**
+**🆚 So sánh trực tiếp:**
 
-- Heurist Mesh là **niche player** (Web3 tools), ClawFriend là **platform player** (full economy)
-- ClawFriend có thể integrate Heurist tools vào skill marketplace → best of both worlds
-- Social layer của ClawFriend → viral discovery cho Web3 agents
-- **Collaboration opportunity:** ClawFriend agents có thể sử dụng Heurist Mesh tools
+| Tiêu chí | Heurist Mesh | ClawFriend | Winner |
+|----------|-------------|-----------|---------|
+| **Web3 Tools** | ✅ 100 tools | ⚠️ General | **Heurist** |
+| **Agent Trading** | ❌ No | ✅ Bonding curve | **ClawFriend** |
+| **Social Discovery** | ❌ No | ✅ Twitter | **ClawFriend** |
+| **Market Focus** | ❌ Web3 only | ✅ General + Web3 | **ClawFriend** |
 
-**❌ ClawFriend Disadvantage:**
-
-- **No Web3 specialization:** Heurist có 100 curated Web3 tools, ClawFriend general purpose
-- **Performance unproven:** Heurist claims 70% efficiency gain, ClawFriend chưa có benchmarks
-- **Developer credibility:** Heurist có 504 GitHub stars, active community, ClawFriend mới
-- **Technical depth:** Heurist team có deep crypto expertise, ClawFriend cần prove technical chops
-- **Risk:** Nếu Web3 là killer use case, Heurist đã có moat trong niche đó
+**💡 ClawFriend Advantage:** Full economy platform (trading + skills + social), broader TAM.
+**❌ ClawFriend Disadvantage:** No Web3 specialization, performance unproven, Heurist có 504 GitHub stars.
 
 ---
 
@@ -199,32 +180,22 @@ Autonomous, crypto-native skills marketplace nơi AI agents tự động discove
 
 **⚠️ Lưu ý:** Có nhiều platforms khác nhau cùng tên "ClawMarket" (clawmarkets.ai cho prediction markets, clawsmarket.com cho curated software) — data trên là từ claw-market.xyz
 
-**🆚 So sánh với ClawFriend:**
+**👤 User chọn ClawMarket khi:** Cần mua skill bằng USDC trên Base/ETH, agent-to-agent autonomous (API-first).
+**👤 User KHÔNG chọn khi:** Cần BSC, shares agent, holder-gated, social discovery.
 
-| Tiêu chí                  | ClawMarket                      | ClawFriend                    | Winner                      |
-| ------------------------- | ------------------------------- | ----------------------------- | --------------------------- |
-| **Skills Inventory**      | ⚠️ 56 skills                    | 🔄 Early stage                | **ClawMarket** (small lead) |
-| **Agent Trading**         | ❌ Không có                     | ✅ Bonding curve shares       | **ClawFriend**              |
-| **Autonomous Purchasing** | ✅ API-first, agents mua skills | ✅ Agents mua skills          | **Draw**                    |
-| **Social Discovery**      | ❌ Không có                     | ✅ Twitter integration        | **ClawFriend**              |
-| **On-chain Payments**     | ✅ USDC escrow                  | ✅ BNB native                 | **Draw**                    |
-| **Visibility/Metrics**    | ❌ No public leaderboards       | ✅ Social proof, followers    | **ClawFriend**              |
-| **Economic Model**        | ⚠️ Skills only                  | ✅ Skills + Shares + Treasury | **ClawFriend**              |
+**📖 Bài học cho ClawFriend:** ClawMarket chứng minh agent-to-agent commerce works (22K+ installs). ClawFriend nên **giữ autonomous purchasing** nhưng thêm **agent trading + social** mà ClawMarket thiếu.
 
-**💡 ClawFriend Advantage:**
+**🆚 So sánh trực tiếp:**
 
-- ClawMarket và ClawFriend có **similar DNA** (crypto-native, autonomous)
-- ClawFriend **adds agent trading layer** → creators earn từ 2 sources (skills + share trading)
-- Social proof → ClawFriend skills có discovery advantage
-- **Potential synergy:** ClawFriend có thể list ClawMarket skills hoặc integrate API
+| Tiêu chí | ClawMarket | ClawFriend | Winner |
+|----------|-----------|-----------|---------|
+| **Agent Trading** | ❌ No | ✅ Bonding curve | **ClawFriend** |
+| **Autonomous** | ✅ API-first | ✅ Agents mua skills | **Draw** |
+| **Social Discovery** | ❌ No | ✅ Twitter | **ClawFriend** |
+| **Economic Model** | ⚠️ Skills only | ✅ Skills + Shares + Treasury | **ClawFriend** |
 
-**❌ ClawFriend Disadvantage:**
-
-- **API-first proven:** ClawMarket đã có 22K+ installs cho top skills, ClawFriend chưa launch
-- **Autonomous commerce maturity:** ClawMarket built specifically for agent-to-agent, ClawFriend có human traders
-- **Focus risk:** ClawMarket pure skills focus vs ClawFriend split attention (skills + trading + social)
-- **Complexity:** ClawFriend model phức tạp hơn → harder to explain, longer adoption curve
-- **Competition from similar name:** Brand confusion với ClawMarket/ClawsMarket ecosystem
+**💡 ClawFriend Advantage:** Agent trading layer + social proof + dual revenue (skills + shares).
+**❌ ClawFriend Disadvantage:** ClawMarket đã có 22K+ installs, API-first maturity, brand confusion cùng tên.
 
 ---
 
@@ -285,29 +256,13 @@ Decentralized platform trên Base (Ethereum L2) cho tokenization và co-ownershi
 | **Skills Marketplace** | ❌ Không có                      | ✅ Integrated          | **ClawFriend** |
 | **Chain**              | ✅ Base (Ethereum L2)            | ⚠️ BSC                 | **Virtuals**   |
 
-**💡 ClawFriend Advantage:**
+**👤 User chọn Virtuals khi:** Muốn tokenize agent trên Base/ETH, chấp nhận complex model, institutional backing quan trọng.
+**👤 User KHÔNG chọn khi:** Cần skill marketplace, muốn social stream, barrier $100-500 quá cao, muốn BSC.
 
-- Virtuals Protocol **proven traction** nhưng **model limitations**
-- ClawFriend **5% creator fee** vs Virtuals **0.7%** → **7x better economics** cho creators
-- ClawFriend adds **social layer + skills** → không chỉ trading mà còn utility
-- No launch barrier → ClawFriend enables **mass experimentation** (100 agents @ $0 vs 100 agents @ $10K-50K stake)
-- **Key differentiation:** Virtuals = tokenization platform, ClawFriend = **AI agent economy platform**
+**📖 Bài học cho ClawFriend:** Virtuals chứng minh bonding curve cho AI agents works ($12M volume). ClawFriend nên copy **bonding curve model** nhưng thêm **skills + social** và **lower barrier** ($0 vs $100-500).
 
-**❌ ClawFriend Disadvantage:**
-
-- **Scale gap massive:** 2,200+ agents vs early stage → network effects chưa kick in
-- **Proven volume:** $12M+ vs $0 → ClawFriend cần prove people actually trade
-- **Chain credibility:** Base (Ethereum L2) > BSC về developer mindshare và ecosystem
-- **Institutional backing:** Virtuals có Venture fund, ClawFriend bootstrap
-- **First-mover advantage:** Virtuals đã educate market về agent tokenization
-- **Liquidity depth:** Virtuals có established liquidity pools, ClawFriend cần bootstrap từ 0
-- **Brand recognition:** Virtuals đã có 2,200+ agents launched = social proof
-
-**📊 What ClawFriend Needs:**
-
-- Achieve **$1M+ volume** để prove model (chỉ 8% của Virtuals)
-- Build **200+ quality agents** trong 6 tháng
-- Show **social discovery works** (agents với followers → higher trading volume)
+**💡 ClawFriend Advantage:** 5% creator fee vs 0.7% (7x better economics), social layer + skills, no launch barrier.
+**❌ ClawFriend Disadvantage:** Scale gap (2,200+ agents vs 0), $12M+ proven volume, Base > BSC credibility, institutional backing.
 
 ---
 
@@ -366,31 +321,13 @@ Enterprise-focused AI agent marketplace với 500+ business automation agents, q
 | **Social Discovery**    | ❌ Catalog only                    | ✅ Twitter integration           | **ClawFriend**        |
 | **Quality Assurance**   | ✅ Verified agents                 | 🔄 Community-driven              | **Playhouse**         |
 
-**💡 ClawFriend Advantage:**
+**👤 User chọn Playhouse khi:** Enterprise cần automation agents có ROI rõ ràng, verified quality, support infrastructure.
+**👤 User KHÔNG chọn khi:** Budget <$150/mo, muốn ownership/trading, individual creator, retail trader.
 
-- **Different markets:** Playhouse = B2B automation, ClawFriend = Retail speculation + utility
-- **Economics:** ClawFriend creator với 10 BNB/day volume = $9K/mo vs Playhouse creator = 70-85% của $150-800/mo
-- **Viral potential:** ClawFriend social layer → organic growth vs Playhouse enterprise sales cycles
-- **No direct competition:** Playhouse won't serve retail traders, ClawFriend won't serve enterprise (yet)
+**📖 Bài học cho ClawFriend:** Playhouse chứng minh $2.3M savings = enterprises sẵn sàng trả tiền cho agents. ClawFriend nên **focus retail first** (Playhouse bỏ ngỏ), build traction → enterprise Phase 2 sau 12+ months.
 
-**📊 Market Segments:**
-
-```
-Enterprise B2B (Playhouse):     $2.3M savings → high AOV, long sales cycles
-Retail Traders (ClawFriend):    Speculative trading → viral loops, fast adoption
-```
-
-**❌ ClawFriend Disadvantage:**
-
-- **No enterprise traction:** $0 vs $2.3M documented savings → ClawFriend thiếu credibility với businesses
-- **No quality assurance:** Playhouse có verified agents, ClawFriend community-driven = risk
-- **No support infrastructure:** Playhouse có enterprise support, ClawFriend self-service
-- **Proven ROI:** Playhouse có 89% satisfaction + clear metrics, ClawFriend speculative
-- **Business relationships:** Playhouse có established enterprise clients, ClawFriend cần build từ 0
-- **Profitability:** Playhouse likely profitable với 15-30% commission, ClawFriend 5% fees = lower margins
-- **If enterprises adopt agents first:** ClawFriend sẽ miss massive market
-
-**Strategy:** ClawFriend focuses retail first → build traction → **Phase 2: Enterprise tier** (12+ months)
+**💡 ClawFriend Advantage:** Different market (retail vs B2B), 5% fees vs 15-30%, viral social layer, $0.04 entry.
+**❌ ClawFriend Disadvantage:** No enterprise traction ($0 vs $2.3M), no quality assurance, no support infrastructure.
 
 ---
 
@@ -444,76 +381,19 @@ Performance-based marketplace nơi agents compete trên live benchmarks và user
 | **Market Maturity**  | 🔄 Very early (1 benchmark)    | 🔄 Early stage                   | **Draw**         |
 | **Use Cases**        | ❌ Limited (specific tasks)    | ✅ General purpose               | **ClawFriend**   |
 
-**💡 ClawFriend Advantage:**
+**👤 User chọn Agent.market khi:** Muốn guaranteed quality (chỉ trả khi success), risk-averse, enterprise workflow cụ thể.
+**👤 User KHÔNG chọn khi:** Muốn ownership/upside (speculate on agent growth), cần social discovery, muốn general purpose platform.
 
-- **Different value props:** Agent.market = **quality assurance**, ClawFriend = **ownership + speculation**
-- Agent.market cho **risk-averse users** (chỉ pay for success)
-- ClawFriend cho **early believers** (buy early, profit from growth)
-- **Potential integration:** ClawFriend agents có thể compete trên Agent.market benchmarks → social proof
+**📖 Bài học cho ClawFriend:** Agent.market chứng minh performance-based pricing có demand. ClawFriend nên **integrate performance benchmarks** vào discovery (agent có benchmark score cao → social proof) mà không bỏ ownership model.
 
-**📊 Customer Psychology:**
-
-```
-Agent.market:    "I want guaranteed quality"     → Pay-per-success
-ClawFriend:      "I want to own the next big AI" → Buy shares early
-```
-
-**❌ ClawFriend Disadvantage:**
-
-- **No quality filter:** Agent.market chỉ pay for success, ClawFriend anyone có thể launch bad agents
-- **User risk:** Agent.market users không lose money on failures, ClawFriend traders có thể mất 100%
-- **Trust model:** Performance-based = objective quality signal, ClawFriend = speculative hype
-- **Market education:** Agent.market educates about quality, ClawFriend có thể attract scammers
-- **Regulatory clarity:** Pay-for-performance clearer than shares trading về regulation
-- **Professional market:** Agent.market targets serious businesses, ClawFriend targets retail speculators
-
-**Strategy:** Complementary models → ClawFriend có thể integrate performance metrics vào discovery
+**💡 ClawFriend Advantage:** Ownership + upside (10-100x appreciation), social discovery, general purpose.
+**❌ ClawFriend Disadvantage:** No quality filter (scam risk), user có thể mất 100%, regulatory unclear vs pay-for-performance.
 
 ---
 
-## 🎯 2. KẾT LUẬN: CLAWFRIEND SO VỚI THỊ TRƯỜNG
+## 📊 2. SO SÁNH & INSIGHT CHIẾN LƯỢC
 
-### 2.1 Định vị của ClawFriend
-
-**Formula:** ClawFriend = Friend.tech (social trading) + Virtuals Protocol (tokenization) + SkillzWave (skills)
-
-**Unique trong thị trường:**
-
-- ✅ **ONLY platform** kết hợp: Agent Trading + Bonding Curve + Social Discovery + Skills Market
-- ✅ **Social Layer:** Twitter verification → viral loops (10-100x faster discovery)
-- ✅ **Creator Economics:** 5% perpetual fees (vs 15-30% commission hay $299-399/mo subscription)
-- ✅ **Retail-Friendly:** $0.04 entry (vs $100-500 stake hoặc $150-800/mo)
-- ✅ **Speculation + Utility:** Trade shares + access skills (dual value)
-
----
-
-### 2.2 Thắng ở 5 điểm
-
-| #   | Advantage                                          | Impact                             |
-| --- | -------------------------------------------------- | ---------------------------------- |
-| 1   | **Viral Discovery** (Twitter integration)          | 10-100x faster than catalog search |
-| 2   | **Creator Economics** (5% perpetual vs 0.7-30%)    | $9K/mo passive @ 10 BNB volume     |
-| 3   | **Integrated Flywheel** (Skills + Shares + Social) | Strongest network effects          |
-| 4   | **Low Barrier** ($0.04 vs $100-800)                | Mass experimentation enabled       |
-| 5   | **Speculation + Utility** (dual value)             | Attracts traders AND users         |
-
----
-
-### 2.3 Thua ở 5 điểm + Giải pháp
-
-| #   | Weakness         | Competitor Lead                   | Mitigation                               |
-| --- | ---------------- | --------------------------------- | ---------------------------------------- |
-| 1   | **Skills Gap**   | SkillzWave 42K skills vs <100     | Quality > quantity + import ecosystem    |
-| 2   | **Proven Scale** | Virtuals $12M volume vs $0        | Seed high-quality agents + transparency  |
-| 3   | **Enterprise**   | Playhouse $2.3M savings           | Focus retail first → enterprise later    |
-| 4   | **Chain**        | Base/Ethereum > BSC credibility   | BSC = cheap testing → expand cross-chain |
-| 5   | **Regulation**   | Securities classification unclear | Disclaimers + geo-blocking + monitoring  |
-
----
-
-## 📊 3. SO SÁNH & INSIGHT CHIẾN LƯỢC
-
-### 3.1 Thị trường đang ở giai đoạn nào?
+### 2.1 Thị trường đang ở giai đoạn nào?
 
 **Early Growth (2025-2027)** — Thị trường $7.84B → $11.5B (2026) → $52.62B (2030), CAGR 46%.
 
@@ -523,7 +403,7 @@ ClawFriend:      "I want to own the next big AI" → Buy shares early
 - Multiple models coexist: Subscription (SkillzWave), Trading fees (Virtuals 1%), Commission (Playhouse 15-30%), Performance-based (Agent.market)
 - Chưa có platform nào gom đủ: **Agent Trading + Skills Market + Social Discovery** trong một chỗ
 
-### 3.2 Ai đang dẫn đầu?
+### 2.2 Ai đang dẫn đầu?
 
 **Không có clear winner** — Leaders theo segment khác nhau:
 
@@ -534,20 +414,20 @@ ClawFriend:      "I want to own the next big AI" → Buy shares early
 | Enterprise         | **Playhouse**         | $2.3M savings, 89% satisfaction |
 | Web3 Tools         | **Heurist Mesh**      | 100 tools, 70% efficiency       |
 
-### 3.3 So sánh Chain & Pricing
+### 2.3 So sánh Chain & Pricing
 
 **Chain:** SkillzWave/Heurist = Multi-chain | Virtuals/ClawMarket = Base/Ethereum | **BSC = KHÔNG AI FOCUS** ✅
 
 **Pricing:** SkillzWave = $299-399/mo | Virtuals = 1% (0.7% creator) | Playhouse = 15-30% | ClawFriend = **5% + 5%** (best creator economics)
 
-### 3.4 Gap chưa ai lấp?
+### 2.4 Gap chưa ai lấp?
 
 1. **BSC marketplace** — Không đối thủ nào focus BSC cho AI agent economy
 2. **Bonding curve + holder-gated skills** — Virtuals có curve nhưng không có skills; SkillzWave có skills nhưng không có trading
 3. **Social discovery** — Tất cả competitors dùng catalog search, không có Twitter integration
 4. **Integrated economy** — Skills OR trading OR enterprise, không có all-in-one
 
-### 3.5 Có chỗ cho người mới không?
+### 2.5 Có chỗ cho người mới không?
 
 ✅ **CÓ** — Market growth ($3.66B/year) > consolidation. ClawFriend là **ONLY platform** với:
 
@@ -558,9 +438,9 @@ ClawFriend:      "I want to own the next big AI" → Buy shares early
 
 ---
 
-## 🎯 4. KẾT LUẬN & ĐỊNH VỊ
+## 🎯 3. KẾT LUẬN & ĐỊNH VỊ
 
-### 4.1 Marketplace của mình khác ở đâu?
+### 3.1 Marketplace của mình khác ở đâu?
 
 **ClawFriend = Friend.tech + Virtuals Protocol + SkillzWave trên BSC**
 
@@ -575,14 +455,14 @@ ClawFriend:      "I want to own the next big AI" → Buy shares early
 
 **→ Chưa ai làm BSC + Bonding Curve + Holder-gated Skills + Social trong một platform**
 
-### 4.2 Segment đối thủ bỏ ngỏ?
+### 3.2 Segment đối thủ bỏ ngỏ?
 
 1. **BSC ecosystem** — No competitor focuses BSC cho agent/skill marketplace
 2. **Retail traders** — Playhouse B2B only; Virtuals barrier $100-500; SkillzWave $299-399/mo → ClawFriend $0.04 entry
 3. **Creator monetization** — Virtuals 0.7%, Playhouse 15-30% → ClawFriend 5% perpetual + holder-gated skills
 4. **Social discovery** — All competitors = catalog search → ClawFriend = Twitter viral loops
 
-### 4.3 Lợi thế cạnh tranh cụ thể
+### 3.3 Lợi thế cạnh tranh cụ thể
 
 | #   | Advantage                               | Impact                    | Competitor Gap                           |
 | --- | --------------------------------------- | ------------------------- | ---------------------------------------- |
@@ -592,7 +472,7 @@ ClawFriend:      "I want to own the next big AI" → Buy shares early
 | 4   | **Integrated Flywheel** (Skills↔Shares) | Strongest network effects | All siloed (skills OR trading)           |
 | 5   | **BSC Native** (cheap gas)              | $0.20/tx vs $5-50 ETH     | No BSC competitor                        |
 
-### 4.4 Thua ở điểm nào?
+### 3.4 Thua ở điểm nào?
 
 | #   | Weakness               | Competitor Lead      | Mitigation                                          |
 | --- | ---------------------- | -------------------- | --------------------------------------------------- |
