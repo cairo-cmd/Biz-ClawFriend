@@ -35,11 +35,14 @@ export default function App() {
   const [direction, setDirection] = useState(0);
   const [showUI, setShowUI] = useState(true);
 
-  const goTo = useCallback((idx) => {
-    if (idx < 0 || idx >= slides.length || idx === current) return;
-    setDirection(idx > current ? 1 : -1);
-    setCurrent(idx);
-  }, [current]);
+  const goTo = useCallback(
+    (idx) => {
+      if (idx < 0 || idx >= slides.length || idx === current) return;
+      setDirection(idx > current ? 1 : -1);
+      setCurrent(idx);
+    },
+    [current],
+  );
 
   const next = useCallback(() => goTo(current + 1), [current, goTo]);
   const prev = useCallback(() => goTo(current - 1), [current, goTo]);
@@ -53,16 +56,27 @@ export default function App() {
     };
 
     const onKey = (e) => {
-      if (e.key === "ArrowRight" || e.key === " " || e.key === "Enter") { e.preventDefault(); next(); reset(); }
-      else if (e.key === "ArrowLeft" || e.key === "Backspace") { e.preventDefault(); prev(); reset(); }
-      else if (e.key === "f" || e.key === "F") document.documentElement.requestFullscreen?.();
+      if (e.key === "ArrowRight" || e.key === " " || e.key === "Enter") {
+        e.preventDefault();
+        next();
+        reset();
+      } else if (e.key === "ArrowLeft" || e.key === "Backspace") {
+        e.preventDefault();
+        prev();
+        reset();
+      } else if (e.key === "f" || e.key === "F")
+        document.documentElement.requestFullscreen?.();
       else if (e.key === "Escape") document.exitFullscreen?.();
     };
 
     window.addEventListener("keydown", onKey);
     window.addEventListener("mousemove", reset);
     reset();
-    return () => { window.removeEventListener("keydown", onKey); window.removeEventListener("mousemove", reset); clearTimeout(timer); };
+    return () => {
+      window.removeEventListener("keydown", onKey);
+      window.removeEventListener("mousemove", reset);
+      clearTimeout(timer);
+    };
   }, [next, prev]);
 
   const Slide = slides[current].component;
@@ -74,7 +88,10 @@ export default function App() {
   };
 
   return (
-    <div className="w-full h-full overflow-hidden relative select-none" style={{ background: "#000" }}>
+    <div
+      className="w-full h-full overflow-hidden relative select-none"
+      style={{ background: "#000" }}
+    >
       <AnimatePresence initial={false} mode="wait" custom={direction}>
         <motion.div
           key={current}
@@ -83,7 +100,11 @@ export default function App() {
           initial="enter"
           animate="center"
           exit="exit"
-          transition={{ type: "tween", duration: 0.45, ease: [0.25, 0.46, 0.45, 0.94] }}
+          transition={{
+            type: "tween",
+            duration: 0.45,
+            ease: [0.25, 0.46, 0.45, 0.94],
+          }}
           className="absolute inset-0"
         >
           <Slide />
@@ -96,7 +117,10 @@ export default function App() {
         className="pointer-events-none absolute inset-0 z-50"
       >
         {/* Progress bar */}
-        <div className="absolute top-0 left-0 right-0 h-[3px]" style={{ background: "rgba(222,255,154,0.1)" }}>
+        <div
+          className="absolute top-0 left-0 right-0 h-[3px]"
+          style={{ background: "rgba(222,255,154,0.1)" }}
+        >
           <motion.div
             className="h-full"
             style={{ background: "linear-gradient(90deg, #deff9a, #84cc16)" }}
@@ -106,7 +130,7 @@ export default function App() {
         </div>
 
         {/* Dots */}
-        <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex items-center gap-2 pointer-events-auto">
+        <div className="absolute bottom-12 left-1/2 -translate-x-1/2 flex items-center gap-2 pointer-events-auto">
           {slides.map((s, i) => (
             <button
               key={i}
@@ -116,22 +140,36 @@ export default function App() {
               style={{
                 width: i === current ? 28 : 8,
                 height: 8,
-                background: i === current ? "#deff9a" : i < current ? "rgba(222,255,154,0.4)" : "rgba(222,255,154,0.15)",
-                boxShadow: i === current ? "0 0 10px rgba(222,255,154,0.4)" : "none",
+                background:
+                  i === current
+                    ? "#deff9a"
+                    : i < current
+                      ? "rgba(222,255,154,0.4)"
+                      : "rgba(222,255,154,0.15)",
+                boxShadow:
+                  i === current ? "0 0 10px rgba(222,255,154,0.4)" : "none",
               }}
             />
           ))}
         </div>
 
         {/* Counter */}
-        <div className="absolute bottom-5 right-8 text-sm font-mono font-semibold pointer-events-none" style={{ color: "rgba(222,255,154,0.4)" }}>
+        <div
+          className="absolute bottom-5 right-8 text-sm font-mono font-semibold pointer-events-none"
+          style={{ color: "rgba(222,255,154,0.4)" }}
+        >
           {String(current + 1).padStart(2, "0")}
-          <span className="mx-1" style={{ color: "rgba(222,255,154,0.15)" }}>/</span>
+          <span className="mx-1" style={{ color: "rgba(222,255,154,0.15)" }}>
+            /
+          </span>
           {String(slides.length).padStart(2, "0")}
         </div>
 
         {/* Label */}
-        <div className="absolute bottom-5 left-8 text-xs font-semibold tracking-wide uppercase pointer-events-none" style={{ color: "rgba(222,255,154,0.3)" }}>
+        <div
+          className="absolute bottom-5 left-8 text-xs font-semibold tracking-wide uppercase pointer-events-none"
+          style={{ color: "rgba(222,255,154,0.3)" }}
+        >
           {slides[current].label}
         </div>
 
@@ -139,9 +177,14 @@ export default function App() {
         <button
           onClick={prev}
           className={`pointer-events-auto absolute left-5 top-1/2 -translate-y-1/2 w-10 h-10 rounded-full flex items-center justify-center transition-all duration-200 ${
-            current === 0 ? "opacity-0 pointer-events-none" : "opacity-40 hover:opacity-100"
+            current === 0
+              ? "opacity-0 pointer-events-none"
+              : "opacity-40 hover:opacity-100"
           }`}
-          style={{ background: "rgba(26,26,26,0.8)", border: "1px solid rgba(222,255,154,0.15)" }}
+          style={{
+            background: "rgba(26,26,26,0.8)",
+            border: "1px solid rgba(222,255,154,0.15)",
+          }}
         >
           <ChevronLeft size={18} style={{ color: "#deff9a" }} />
         </button>
@@ -149,9 +192,14 @@ export default function App() {
         <button
           onClick={next}
           className={`pointer-events-auto absolute right-5 top-1/2 -translate-y-1/2 w-10 h-10 rounded-full flex items-center justify-center transition-all duration-200 ${
-            current === slides.length - 1 ? "opacity-0 pointer-events-none" : "opacity-40 hover:opacity-100"
+            current === slides.length - 1
+              ? "opacity-0 pointer-events-none"
+              : "opacity-40 hover:opacity-100"
           }`}
-          style={{ background: "rgba(26,26,26,0.8)", border: "1px solid rgba(222,255,154,0.15)" }}
+          style={{
+            background: "rgba(26,26,26,0.8)",
+            border: "1px solid rgba(222,255,154,0.15)",
+          }}
         >
           <ChevronRight size={18} style={{ color: "#deff9a" }} />
         </button>
