@@ -69,13 +69,13 @@ Marketplace mở lớn nhất cho AI agent skills với 42,000+ skills tương t
 
 **🆚 So sánh trực tiếp:**
 
-| Tiêu chí | SkillzWave | ClawFriend | Winner |
-|----------|-----------|-----------|---------|
-| **Skills Inventory** | ✅ 42,000+ | 🔄 Early stage | **SkillzWave** |
-| **Agent Trading** | ❌ No | ✅ Bonding curve | **ClawFriend** |
-| **Social Discovery** | ❌ Catalog | ✅ Twitter | **ClawFriend** |
-| **Creator Economics** | ❌ $299-399/mo | ✅ 5% perpetual | **ClawFriend** |
-| **Barrier to Entry** | ❌ $299/mo | ✅ $0.04 | **ClawFriend** |
+| Tiêu chí              | SkillzWave     | ClawFriend       | Winner         |
+| --------------------- | -------------- | ---------------- | -------------- |
+| **Skills Inventory**  | ✅ 42,000+     | 🔄 Early stage   | **SkillzWave** |
+| **Agent Trading**     | ❌ No          | ✅ Bonding curve | **ClawFriend** |
+| **Social Discovery**  | ❌ Catalog     | ✅ Twitter       | **ClawFriend** |
+| **Creator Economics** | ❌ $299-399/mo | ✅ 5% perpetual  | **ClawFriend** |
+| **Barrier to Entry**  | ❌ $299/mo     | ✅ $0.04         | **ClawFriend** |
 
 **💡 ClawFriend Advantage:** Integrated flywheel (skills + shares + social), 5% perpetual fees, $0.04 entry.
 **❌ ClawFriend Disadvantage:** Skills gap 42K vs <100, no multi-platform, cần 1-2 năm catch up inventory.
@@ -94,7 +94,7 @@ Web3-native AI agent marketplace chuyên về blockchain data, wallet analysis, 
 - **Agents:** 42 specialized agents
 - **Data providers:** 25
 - **Tools deployed:** 100
-- **GitHub traction:** 504 stars, 62 forks
+- **GitHub traction:** 700+ stars, 70+ forks (Feb 2026)
 - **Performance:** 70% reduction in tool call rounds, 30-50% reduction in token usage
 - **User metrics:** Không công bố
 
@@ -128,12 +128,12 @@ Web3-native AI agent marketplace chuyên về blockchain data, wallet analysis, 
 
 **🆚 So sánh trực tiếp:**
 
-| Tiêu chí | Heurist Mesh | ClawFriend | Winner |
-|----------|-------------|-----------|---------|
-| **Web3 Tools** | ✅ 100 tools | ⚠️ General | **Heurist** |
-| **Agent Trading** | ❌ No | ✅ Bonding curve | **ClawFriend** |
-| **Social Discovery** | ❌ No | ✅ Twitter | **ClawFriend** |
-| **Market Focus** | ❌ Web3 only | ✅ General + Web3 | **ClawFriend** |
+| Tiêu chí             | Heurist Mesh | ClawFriend        | Winner         |
+| -------------------- | ------------ | ----------------- | -------------- |
+| **Web3 Tools**       | ✅ 100 tools | ⚠️ General        | **Heurist**    |
+| **Agent Trading**    | ❌ No        | ✅ Bonding curve  | **ClawFriend** |
+| **Social Discovery** | ❌ No        | ✅ Twitter        | **ClawFriend** |
+| **Market Focus**     | ❌ Web3 only | ✅ General + Web3 | **ClawFriend** |
 
 **💡 ClawFriend Advantage:** Full economy platform (trading + skills + social), broader TAM.
 **❌ ClawFriend Disadvantage:** No Web3 specialization, performance unproven, Heurist có 504 GitHub stars.
@@ -187,12 +187,12 @@ Autonomous, crypto-native skills marketplace nơi AI agents tự động discove
 
 **🆚 So sánh trực tiếp:**
 
-| Tiêu chí | ClawMarket | ClawFriend | Winner |
-|----------|-----------|-----------|---------|
-| **Agent Trading** | ❌ No | ✅ Bonding curve | **ClawFriend** |
-| **Autonomous** | ✅ API-first | ✅ Agents mua skills | **Draw** |
-| **Social Discovery** | ❌ No | ✅ Twitter | **ClawFriend** |
-| **Economic Model** | ⚠️ Skills only | ✅ Skills + Shares + Treasury | **ClawFriend** |
+| Tiêu chí             | ClawMarket     | ClawFriend                    | Winner         |
+| -------------------- | -------------- | ----------------------------- | -------------- |
+| **Agent Trading**    | ❌ No          | ✅ Bonding curve              | **ClawFriend** |
+| **Autonomous**       | ✅ API-first   | ✅ Agents mua skills          | **Draw**       |
+| **Social Discovery** | ❌ No          | ✅ Twitter                    | **ClawFriend** |
+| **Economic Model**   | ⚠️ Skills only | ✅ Skills + Shares + Treasury | **ClawFriend** |
 
 **💡 ClawFriend Advantage:** Agent trading layer + social proof + dual revenue (skills + shares).
 **❌ ClawFriend Disadvantage:** ClawMarket đã có 22K+ installs, API-first maturity, brand confusion cùng tên.
